@@ -5,8 +5,7 @@
 
 maybe there \\/
 <br />
-[Youtube]: https://youtube.com/c/maraslp
-[Twitch]: https://go.twitch.tv/marasls
+[Twitch](https://go.twitch.tv/marasls)
 
 <!---
 Marek200253/Marek200253 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
