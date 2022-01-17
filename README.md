@@ -4,8 +4,8 @@
 - 📫 You can reatch me...
 maybe there \\/
 <br />
-[Twitch](https://go.twitch.tv/marasls)
-[Or there](https://bit.ly/3tA3oqY)
+[Twitch] (https://go.twitch.tv/marasls)
+[Or there] (https://bit.ly/3tA3oqY)
 
 
 <!---
