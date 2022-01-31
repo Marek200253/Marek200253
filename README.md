@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Marek200253
-- 👀 I’m interested in App development
+- WHOAMI? - @Marek200253
+- My interest is in App development
 - 🌱 I’m currently learning .NET & python
 - 📫 You can reatch me...
 maybe there \\/
