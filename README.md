@@ -1,6 +1,6 @@
 - WHOAMI? - @Marek200253
 - My interest is in App development
-- 🌱 I’m currently learning .NET & python
+- 🌱 I’m currently learning .NET & JS
 - 📫 You can reatch me...
 maybe there \\/
 <br />
